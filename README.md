@@ -1,4 +1,4 @@
-# [TeleDiamond](http://telegram.me/telediamondch)
+# [telejuc2]
 
 # برای نصب کد زیر را در ترمینال وارد کنید
 ```
